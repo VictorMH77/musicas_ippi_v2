@@ -1,4 +1,4 @@
-javascript
+
 // Backend Node.js que funciona como ponte para Appwrite
 // Hospede no Vercel, Railway ou Render (todos grátis)
 
@@ -466,4 +466,4 @@ app.listen(PORT, () => {
 });
 
 module.exports = app;
-```
+
